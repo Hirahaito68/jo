@@ -20,15 +20,15 @@ global.APIKeys = {
 global.ownername = 'THE JO BOT'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.available = true //status online (online)
 // Other
-global.owner = ['6281553838607','6287723753404']
-global.premium = ['6281553838607']
-global.packname = 'Ryu-MD'
-global.author = 'Ridho Coy'
+global.owner = ['6281944599591','6281944599591','6281944599591']
+global.premium = ['6281944599591']
+global.packname = 'yang ambil gay awkoawowoa'
+global.author = 'By Ridho'
 global.wlcm = []
 global.sessionName = 'session'
-global.prefa = ['!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
